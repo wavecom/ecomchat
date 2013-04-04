@@ -1,0 +1,8 @@
+name: EcomChat
+main: de.wavecom_web.chat.EcomChat
+version: 1.0.0b
+description: Ecom Stadtchats
+authors: [wavecom]
+commands:
+  s:
+    description: Stadtchat Command
